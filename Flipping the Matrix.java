@@ -13,6 +13,7 @@ import static java.util.stream.Collectors.toList;
 class Result {
 
     /*
+     * Find max sum of elements in n*n submatrix located in the upper-left quadrant of the matrix. Main matrix is 2n*2n
      * Complete the 'flippingMatrix' function below.
      *
      * The function is expected to return an INTEGER.
